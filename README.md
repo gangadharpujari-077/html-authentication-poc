@@ -66,7 +66,7 @@ project-folder/
 ## ▶️ How to Run
 
 1. Download or clone the repository:
-  git clone <your-repo-link>
+  git clone https://github.com/gangadharpujari-077/html-authentication-poc.git
 
 2. Open the project folder  
 3. Open **index.html** in any browser  
